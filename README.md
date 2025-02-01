@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/manolozumaquero8/manolozumaquero8/blob/main/httpsgithub.commanolozumaquero8.png" alt="Banner" style="width: 100%; max-width: 1200px;" />
+  <img src="https://github.com/user-attachments/assets/32556e33-a58f-48be-ad3c-5c4254a4ee61" alt="Banner" style="width: 100%; max-width: 1000px;" />
 </div>
 
 # 👋 ¡Hola! Soy Manolo Zumaquero 👋
