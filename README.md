@@ -5,12 +5,6 @@
 ### 💻 **Desarrollador de Aplicaciones Multiplataforma **  💻 
 ---
 
-## 🌟 Sobre mí
-
-Soy un programador el cual he trabajado en proyectos tanto individuales como 
-colaborativos, enfocándome en la creación de aplicaciones eficientes, 
-escalables y adaptadas a diferentes plataformas.
-
 🎯 **Áreas de interés**:
 - Desarrollo de aplicaciones móviles y de escritorio.
 - Backend y arquitectura de software.
