@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/32556e33-a58f-48be-ad3c-5c4254a4ee61" alt="Banner" style="width: 100%; max-width: 1000px;" />
+  <img src="httpsgithub commanolozumaquero8](https://github.com/user-attachments/assets/16edfada-e54a-4002-9ffe-64806c7400d0" alt="Banner" style="width: 100%; max-width: 1000px;" />
 </div>
-
 
 # 👋 ¡Hola! Soy Manolo Zumaquero 👋
 
