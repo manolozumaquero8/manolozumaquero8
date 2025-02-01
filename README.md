@@ -4,7 +4,6 @@
 
 
 # 👋 ¡Hola! Soy Manolo Zumaquero 👋
----
 
 🎯 Áreas de interés 🎯
 - Desarrollo de aplicaciones móviles y de escritorio.
