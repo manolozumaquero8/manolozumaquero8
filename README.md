@@ -3,12 +3,12 @@
 </div>
 
 
-# 👋 ¡Hola! Soy Manolo Zumaquero
+# 👋 ¡Hola! Soy Manolo Zumaquero 👋
 
-### 💻 **Desarrollador de Aplicaciones Multiplataforma **  💻 
+### 💻 Desarrollador de Aplicaciones Multiplataforma  💻 
 ---
 
-🎯 **Áreas de interés**:
+🎯 Áreas de interés 🎯
 - Desarrollo de aplicaciones móviles y de escritorio.
 - Backend y arquitectura de software.
 - Gestión de bases de datos SQL y NoSQL.
@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ **Habilidades Técnicas**
+## 🛠️ Habilidades Técnicas 🛠️
 
 ### Lenguajes de Programación
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -40,14 +40,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 📊 **Estadísticas de GitHub**
+## 📊 Estadísticas de GitHub 📊
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=manolozumaquero8&show_icons=true&theme=dark)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=manolozumaquero8&layout=compact&theme=dark)
 
 ---
 
-## ✉️ **Contacto**
+## ✉️ Contacto ✉️
 
 📧 **Email**: Proximamente
 💼 **LinkedIn**: Proximamente
@@ -55,4 +55,4 @@
 
 ---
 
-✨ **Siempre aprendiendo y abierto a nuevos retos. ¡Conectemos!**
+✨ Siempre aprendiendo y abierto a nuevos retos. ¡Conectemos! ✨
