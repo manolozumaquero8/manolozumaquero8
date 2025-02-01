@@ -1,4 +1,4 @@
-![Manolo Zumaquero Banner](https://github.com/manolozumaquero8/manolozumaquero8/blob/main/httpsgithub.commanolozumaquero8.png)
+![Banner](https://github.com/user-attachments/assets/32556e33-a58f-48be-ad3c-5c4254a4ee61)
 
 # 👋 ¡Hola! Soy Manolo Zumaquero
 
