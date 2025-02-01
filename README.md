@@ -2,13 +2,14 @@
 
 # 👋 ¡Hola! Soy Manolo Zumaquero
 
-### 💻 **Desarrollador de Aplicaciones Multiplataforma (DAM)** | 🌟 Explorando el mundo del desarrollo de software
+### 💻 **Desarrollador de Aplicaciones Multiplataforma ** | 🌟 Explorando el mundo del desarrollo de software
 
 ---
 
 ## 🌟 Sobre mí
 
-Soy un programador con formación en el **Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM)**. Durante mi formación, he trabajado en proyectos tanto individuales como colaborativos, enfocándome en la creación de aplicaciones eficientes, escalables y adaptadas a diferentes plataformas.
+Soy un programador el cual he trabajado en proyectos tanto individuales como colaborativos, enfocándome en la 
+creación de aplicaciones eficientes, escalables y adaptadas a diferentes plataformas.
 
 🎯 **Áreas de interés**:
 - Desarrollo de aplicaciones móviles y de escritorio.
@@ -42,20 +43,6 @@ Soy un programador con formación en el **Grado Superior de Desarrollo de Aplica
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
-
-## 🌐 **Proyectos Destacados**
-
-### 🔹 [Proyecto 1: Nombre del Proyecto](https://github.com/manolozumaquero8/proyecto1)
-**Descripción**: Breve descripción del proyecto, qué problema resuelve y qué tecnologías usaste.  
-**Tecnologías**: Java, MySQL, Android Studio.
-
-### 🔹 [Proyecto 2: Nombre del Proyecto](https://github.com/manolozumaquero8/proyecto2)
-**Descripción**: Breve descripción del proyecto, qué aprendiste al desarrollarlo.  
-**Tecnologías**: Node.js, React, MongoDB.
-
----
-
 ## 📊 **Estadísticas de GitHub**
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=manolozumaquero8&show_icons=true&theme=dark)
@@ -65,9 +52,9 @@ Soy un programador con formación en el **Grado Superior de Desarrollo de Aplica
 
 ## ✉️ **Contacto**
 
-📧 **Email**: tuemail@example.com  
-💼 **LinkedIn**: [TuNombre](https://www.linkedin.com/in/tuusuario)  
-🌐 **Portafolio**: [tuportafolio.com](https://tuportafolio.com)
+📧 **Email**: Proximamente
+💼 **LinkedIn**: Proximamente
+🌐 **Portafolio**: Proximamente
 
 ---
 
