@@ -15,6 +15,3 @@ Soy un programador con experiencia en el desarrollo de aplicaciones multiplatafo
 
 ---
 
-### 📊 **Estadísticas**
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=dark)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=dark)
