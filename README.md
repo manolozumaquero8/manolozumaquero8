@@ -1,4 +1,7 @@
-![Banner](https://github.com/user-attachments/assets/32556e33-a58f-48be-ad3c-5c4254a4ee61)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/32556e33-a58f-48be-ad3c-5c4254a4ee61" alt="Banner" />
+</div>
+
 
 # 👋 ¡Hola! Soy Manolo Zumaquero
 
