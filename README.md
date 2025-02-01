@@ -4,8 +4,6 @@
 
 
 # 👋 ¡Hola! Soy Manolo Zumaquero 👋
-
-### 💻 Desarrollador de Aplicaciones Multiplataforma  💻 
 ---
 
 🎯 Áreas de interés 🎯
