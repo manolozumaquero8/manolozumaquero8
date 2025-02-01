@@ -11,8 +11,6 @@
 - Gestión de bases de datos SQL y NoSQL.
 - Aprender y experimentar con nuevas tecnologías.
 
----
-
 ## 🛠️ Habilidades Técnicas 🛠️
 
 ### Lenguajes de Programación
@@ -42,14 +40,10 @@
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=manolozumaquero8&show_icons=true&theme=dark)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=manolozumaquero8&layout=compact&theme=dark)
 
----
-
 ## ✉️ Contacto ✉️
 
 📧 **Email**: Proximamente
 💼 **LinkedIn**: Proximamente
 🌐 **Portafolio**: Proximamente
-
----
 
 ✨ Siempre aprendiendo y abierto a nuevos retos. ¡Conectemos! ✨
